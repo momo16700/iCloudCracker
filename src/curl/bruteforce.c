@@ -1,4 +1,16 @@
+/* The `#include <stdio.h>` directive is a preprocessor directive that includes the standard
+input-output library in the C program. This library provides functions for input and output
+operations, such as `printf` and `scanf`. By including `<stdio.h>`, you can use these functions in
+your program to interact with the standard input and output streams. */
+/* The `#include <stdio.h>` directive is a preprocessor directive in C that includes the standard
+input-output library in the C program. This library provides functions for input and output
+operations, such as `printf` and `scanf`. By including `<stdio.h>`, you can use these functions in
+your program to interact with the standard input and output streams. */
+#include <stdio.h>
 #include "bruteforce.h"
+
+#define CHAR_COUNT 72
+#define MAX_SIZE 30
 
 void getGuess()
 {

@@ -1,0 +1,7 @@
+{
+    "accessibility.voice.keywordActivation": "chatInContext",
+    "github.copilot.chat.inlineChatCompletionTrigger.enabled": true,
+    "github.copilot.chat.inlineChatHint.enabled": true,
+    "inlineChat.experimental.enableZoneToolbar": true,
+    "inlineChat.finishOnType": true
+}
